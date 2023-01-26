@@ -72,5 +72,5 @@ function init(){
             writeReadMe(`${response.title}.md`, md)
         })}
 
-// Function call to initialize app
+// initialises app in command line
 init();
